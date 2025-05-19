@@ -1,4 +1,4 @@
-(screen.gif)
+![预览](screen.gif)
 
 ## 💖 赞助支持 / Sponsor
 如果您喜欢这个项目，可以请作者喝杯咖啡 ☕  
